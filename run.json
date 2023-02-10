@@ -1,4 +1,17 @@
 {
+    "replies": [
+        {
+            "message": "p"
+        },
+        {
+            "message": "l"
+        }
+    ]
+}
+
+
+
+{
     "appPackageName": "tkstudio.autoresponderforwa",
     "messengerPackageName": "com.whatsapp",
     "query": {
@@ -9,15 +22,4 @@
         "ruleId": 42,
         "isTestMessage": false
     }
-}
-
-{
-    "replies": [
-        {
-            "message": "P"
-        },
-        {
-            "message": "L"
-        }
-    ]
 }
