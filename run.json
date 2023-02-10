@@ -10,3 +10,14 @@
         "isTestMessage": false
     }
 }
+
+{
+    "replies": [
+        {
+            "message": "P"
+        },
+        {
+            "message": "L"
+        }
+    ]
+}
