@@ -1,0 +1,12 @@
+{
+    "appPackageName": "tkstudio.autoresponderforwa",
+    "messengerPackageName": "com.whatsapp",
+    "query": {
+        "sender": "John Smith",        
+        "message": "This is an example!",
+        "isGroup": false,
+        "groupParticipant": "",
+        "ruleId": 42,
+        "isTestMessage": false
+    }
+}
