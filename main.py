@@ -4,7 +4,7 @@ class menu:
 				print('''1.niat sholat''')
 				usna = input('masukan :')
 				if usna == '1':
-					from src import js
+					from src import js-os
 					print('import error')
 				elif usna == '2':
 					exit()
