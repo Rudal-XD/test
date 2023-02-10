@@ -4,7 +4,7 @@ class menu:
 				print('''1.niat sholat''')
 				usna = input('masukan :')
 				if usna == '1':
-					import src from test
+					from test import niatsholat
 					print('import error')
 				elif usna == '2'
 					exit()
