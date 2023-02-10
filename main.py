@@ -6,7 +6,7 @@ class menu:
 				if usna == '1':
 					from test import niatsholat
 					print('import error')
-				elif usna == '2'
+				elif usna == '2':
 					exit()
 					
 if __name__=='__main__':
